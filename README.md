@@ -62,4 +62,4 @@ This project is licensed under the MIT License.
 
 ![Weather App small_screen](src/assets/Mobile_Screen.png)
 
-![Weather App large_screen](src/assets/Web_screen.png)
+![Weather App large_screen](src/assets/Web_Screen.png)
